@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://github.com/marcdelay.png" width="150" />
   # Hi, My name is Marc DeLay
 </div>
