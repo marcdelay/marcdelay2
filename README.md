@@ -10,6 +10,16 @@ I'm currently working on the Medline Operations Problem Navigator.
 
 **My Goal This Cycle:** I want to see the interns blossom during the next 12 weeks.  
 
+<details>
+  <summary>MY home battle station specs</summary>
+
+  
+  +GTC 3070ti
+  +AMD Ryzen 9 5600
+  +32 GB DDR4 ram
+  +3 27" monitors  
+  
+</details>
 
 **Reach me @**  
 + [My gmail account](mailto:marcdelay@gmail.com)
