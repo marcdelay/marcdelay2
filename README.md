@@ -11,7 +11,7 @@ I'm currently working on the Medline Operations Problem Navigator.
 
 **Reach me @**  
 + [My gmail account](mailto:marcdelay@gmail.com)
-+ [My Linkedin Profile](www.linkedin.com/marcdelay)
++ [My Linkedin Profile](www.linkedin.com/marc_delay)
 + [my fax](fax:7087588756)
 
 
