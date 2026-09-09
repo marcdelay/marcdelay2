@@ -1,5 +1,7 @@
-# Hi, My name is Marc DeLay
-
+<div>
+  <img src="https://github.com/marcdelay.png" width="150" />
+  # Hi, My name is Marc DeLay
+</div>
 I'm a Cycle 60 intern at i.c.stars.  
 
 I'm currently working on the Medline Operations Problem Navigator.  
