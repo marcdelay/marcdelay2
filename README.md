@@ -13,11 +13,12 @@ I'm currently working on the Medline Operations Problem Navigator.
 <details>
   <summary>MY home battle station specs</summary>
 
-  
-  +GTC 3070ti
-  +AMD Ryzen 9 5600
-  +32 GB DDR4 ram
-  +3 27" monitors  
+  <ul>
+    <li>GTC 3070ti</li>
+    <li>AMD Ryzen 9 5600</li>
+    <li>32 GB DDR4 ram</li>
+    <li>3 27" monitors</li>
+  </ul>
   
 </details>
 
