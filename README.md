@@ -22,6 +22,18 @@ I'm currently working on the Medline Operations Problem Navigator.
   
 </details>
 
+
+
+<details>
+<summary>Currently Learning</summary>
+ 
+  <ul>
+<li>Learning Essential Tools</li>
+<li>Develop practical skills</li>
+<li>Explore specialization</li>
+</ul>
+</details>
+
 **Reach me @**  
 + [My gmail account](mailto:marcdelay@gmail.com)
 + [My Linkedin Profile](https://www.linkedin.com/in/marc-delay/)
